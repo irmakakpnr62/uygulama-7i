@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\uygulama-7i\uygulama-7i\bin\Debug\uygulama-7i.exe.config
+C:\Users\User\source\repos\uygulama-7i\uygulama-7i\bin\Debug\uygulama-7i.exe
+C:\Users\User\source\repos\uygulama-7i\uygulama-7i\bin\Debug\uygulama-7i.pdb
+C:\Users\User\source\repos\uygulama-7i\uygulama-7i\obj\Debug\uygulama-7i.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\uygulama-7i\uygulama-7i\obj\Debug\uygulama-7i.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\uygulama-7i\uygulama-7i\obj\Debug\uygulama_7i.Form1.resources
+C:\Users\User\source\repos\uygulama-7i\uygulama-7i\obj\Debug\uygulama_7i.Properties.Resources.resources
+C:\Users\User\source\repos\uygulama-7i\uygulama-7i\obj\Debug\uygulama-7i.csproj.GenerateResource.cache
+C:\Users\User\source\repos\uygulama-7i\uygulama-7i\obj\Debug\uygulama-7i.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\uygulama-7i\uygulama-7i\obj\Debug\uygulama-7i.exe
+C:\Users\User\source\repos\uygulama-7i\uygulama-7i\obj\Debug\uygulama-7i.pdb
